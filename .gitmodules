@@ -1,0 +1,3 @@
+[submodule "go-echo-vue"]
+	path = go-echo-vue
+	url = https://github.com/minhtungo/go-echo-vue.git
